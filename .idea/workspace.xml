@@ -4,9 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49150328-acb3-4f5d-aca1-64eaf03e2b74" name="변경" comment="">
+    <list default="true" id="49150328-acb3-4f5d-aca1-64eaf03e2b74" name="변경" comment="commit_test">
+      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/condition/Condition1Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/condition/Condition2Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/condition/Condition3Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/condition/ElseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/condition/LoginDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/condition/LoginDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/condition/SwitchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/conditionaloperator/AndDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/conditionaloperator/NotDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/conditionaloperator/OrDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/loop/WhileDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/datatype/IntDatatypeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/datatype/IntDatatypeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/자바 연습/org/opentutorials/javatutorials/datatype/IntDatatypeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/자바 연습/org/opentutorials/javatutorials/datatype/IntDatatypeDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,25 +45,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Administrator/Desktop/자바 연습",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/자바 연습&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.opentutorials.javatutorials.condition" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="DoubleDemo" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.opentutorials.javatutorials.variables.DoubleDemo" />
@@ -60,6 +76,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.opentutorials.javatutorials.variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.opentutorials.javatutorials.condition.LoginDemo" />
+      <module name="자바 연습" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.opentutorials.javatutorials.condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,8 +123,17 @@
       <workItem from="1682479859620" duration="68000" />
       <workItem from="1682479943377" duration="4720000" />
       <workItem from="1682485023003" duration="401000" />
-      <workItem from="1682485779332" duration="4386000" />
+      <workItem from="1682485779332" duration="9885000" />
+      <workItem from="1684901122868" duration="5204000" />
     </task>
+    <task id="LOCAL-00001" summary="commit_test">
+      <created>1682490198673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682490198673</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,5 +152,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="commit_test" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit_test" />
   </component>
 </project>
