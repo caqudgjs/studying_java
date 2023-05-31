@@ -4,20 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49150328-acb3-4f5d-aca1-64eaf03e2b74" name="변경" comment="commit_test">
-      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/condition/Condition1Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/condition/Condition2Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/condition/Condition3Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/condition/ElseDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/condition/LoginDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/condition/LoginDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/condition/SwitchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/conditionaloperator/AndDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/conditionaloperator/NotDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/conditionaloperator/OrDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/loop/WhileDemo.java" afterDir="false" />
+    <list default="true" id="49150328-acb3-4f5d-aca1-64eaf03e2b74" name="변경" comment="2023-05-25">
+      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/loop/BreakDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/loop/ContinueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/loop/ForDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/loop/LoopDepthDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/loop/WhileDemo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/자바 연습/org/opentutorials/javatutorials/datatype/IntDatatypeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/자바 연습/org/opentutorials/javatutorials/datatype/IntDatatypeDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +117,7 @@
       <workItem from="1682479943377" duration="4720000" />
       <workItem from="1682485023003" duration="401000" />
       <workItem from="1682485779332" duration="9885000" />
-      <workItem from="1684901122868" duration="5204000" />
+      <workItem from="1684901122868" duration="11775000" />
     </task>
     <task id="LOCAL-00001" summary="commit_test">
       <created>1682490198673</created>
@@ -133,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682490198673</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2023-05-25">
+      <created>1684988349451</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684988349451</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +153,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit_test" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit_test" />
+    <MESSAGE value="2023-05-25" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-05-25" />
   </component>
 </project>
